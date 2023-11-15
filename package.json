@@ -50,6 +50,7 @@
     "react-router-dom": "^6.18.0",
     "sweetalert2": "^11.10.0",
     "tailwind-merge": "^2.0.0",
+    "vite-plugin-react-pages": "^4.1.5",
     "zod": "^3.22.4"
   },
   "devDependencies": {
