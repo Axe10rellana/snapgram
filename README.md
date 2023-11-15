@@ -92,7 +92,7 @@ npx shadcn-ui@latest add tabs
 
 ## Enlace A La Aplicación
 
-- [Snapgram](https://axe10rellana-snapgram.vercel.app/)
+- [Snapgram](https://snapgram-nu.vercel.app/)
 
 ---
 
